@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: EduCoreApp
+Class-Path: lib/flatlaf-3.6.2.jar lib/flatlaf-intellij-themes-3.6.2.jar lib/Java-WebSocket-1.6.0.jar lib/gson-2.13.2.jar lib/miglayout-core-11.0.jar lib/miglayout-swing-11.0.jar lib/mysql-connector-j-9.5.0.jar lib/slf4j-api-2.0.17.jar
+
